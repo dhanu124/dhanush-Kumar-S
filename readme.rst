@@ -1,7 +1,7 @@
 ###################
 What is CodeIgniter
 ###################
-#such a new thing
+#Hello everyone
 
 for a given task.
 
